@@ -1,0 +1,48 @@
+body{
+    background-color: #F3F3F3;
+}
+.head{
+    margin: 0%;
+    margin-left: 33%;
+    
+    color: #303841;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+   
+}
+.tic:hover{
+    background-color: #FF0303;
+}
+.tic{
+    margin: 0%;
+    margin-left: 30%;
+    margin-top: 5%;
+    color: 2185d5;
+    padding-left: 2px;
+    padding-top: 2px;
+    background-color: #2185d5;
+    display:inline-block;
+    
+
+}
+.rail{
+    
+  margin-left: 4%;
+  padding-right:4px ;
+  padding-top: 2px;
+    background-color: #2185d5;
+    display: inline-block;
+}
+.rail:hover{
+    background-color: #00FFF6;
+}
+.contact{
+    margin: 0%;
+    margin-left:40% ;
+    font-family: 'PT Serif', serif;
+    color: #303841;
+    margin-top: 5%;
+    
+}
+
+
