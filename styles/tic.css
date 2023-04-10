@@ -1,0 +1,74 @@
+
+.back{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 6%;
+}
+tr:hover{
+    color: #D2042D;
+}
+
+#thead{
+    
+    font-family: 'Montserrat', sans-serif;
+    color:#ee2690;
+}
+h3{
+    line-height: 1.6;
+}
+h2{
+    line-height: 2;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: black;
+    
+}
+#route{
+    width: 2.3rem;
+}
+#free{
+    font-family: 'Montserrat', sans-serif;
+    color: yellow;
+    background-color:#ee2690;
+margin-bottom: 3.125rem;
+margin-bottom: 3.125rem;
+border-radius: 0.625rem;
+
+}
+#heading{
+
+    line-height: 4.5;
+    font-family: 'Montserrat', sans-serif;
+    color: #ee2690;
+}
+#offer{
+    line-height: 1.5;
+    font-size: 50px;    
+    font-family: 'Montserrat', sans-serif;
+    color: #ee2690;
+    
+    
+}
+.table-s{
+    line-height: 3;
+    font-family: 'Montserrat', sans-serif;
+    color: #ee2690;
+}
+
+@media only screen and (max-width: 530px) and (min-width: 100px)  {
+    #route{
+        width: 1.6rem;
+    }
+h4{
+    font-size: 1rem;
+}
+
+}
+.hr{
+    border-top: none;
+    border-color: rgb(28, 27, 27);
+    border-style:dotted;
+
+}
